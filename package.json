@@ -1,0 +1,18 @@
+{
+  "name": "create-random",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "type": "module",
+  "bin": {
+    "create-random": "./src/index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
