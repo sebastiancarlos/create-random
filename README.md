@@ -9,7 +9,7 @@ It works by choosing a random npm package that:
 
 ### Usage
 
-No installation is required. Just run the script.
+No installation is required. Just run:
 
 ```bash
 npm create random
