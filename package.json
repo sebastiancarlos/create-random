@@ -1,6 +1,6 @@
 {
   "name": "create-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "github:sebastiancarlos/create-random",
   "publishConfig": {
     "access": "public"
